@@ -1,0 +1,71 @@
+**<!DOCTYPE html>**
+**<html>**
+**<head>**
+**<meta charset="UTF-8">**
+**<title>Tribute to Sudha Murty</title>**
+**<style>**
+**body {**
+**    font-family: Arial, sans-serif;**
+**    background-color: #f2f2f2;**
+**    margin: 0;**
+**    padding: 0;**
+**}**
+
+**header {**
+**    text-align: center;**
+**    background-color: #009688;**
+**    color: #fff;**
+**    padding: 20px;**
+**}**
+
+**h1 {**
+**    font-size: 36px;**
+**}**
+
+**img {**
+**    display: block;**
+**    margin: 0 auto;**
+**    max-width: 100%;**
+**    height: auto;**
+**    border-radius: 50%;**
+**}**
+
+**#tribute-content {**
+**    max-width: 800px;**
+**    margin: 20px auto;**
+**    padding: 20px;**
+**    background-color: #fff;**
+**    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);**
+**}**
+
+**p {**
+**    font-size: 18px;**
+**    line-height: 1.6;**
+**    text-align: justify;**
+**    margin-bottom: 20px;**
+**}**
+
+**</style>**
+**</head>**
+**<body>**
+**<header>**
+**    <h1>Tribute to Sudha Murty</h1>**
+**    <img src="sudha_murty.jpg" alt="Sudha Murty">**
+**</header>**
+
+**<div id="tribute-content">**
+**    <p>Sudha Murty is a remarkable individual who has made significant contributions to society through her work in various fields. Her dedication and compassion have left an indelible mark on the hearts of many.</p>**
+
+**    <p>One of the qualities that I truly admire about Sudha Murty is her unwavering commitment to philanthropy. She has been actively involved in numerous charitable initiatives, with a focus on education and healthcare. Her efforts have transformed the lives of countless individuals, providing them with access to education and healthcare services they might not have otherwise received.</p>**
+
+**    <p>Furthermore, Sudha Murty is a prolific author whose books have inspired and touched the lives of readers across the globe. Her storytelling prowess, coupled with her ability to address important social issues, has earned her a special place in the world of literature.</p>**
+
+**    <p>Her humility and down-to-earth nature despite her many accomplishments serve as an example to us all. She remains grounded and approachable, making her an even more endearing personality.</p>**
+
+**    <p>In addition to her philanthropic work and literary contributions, Sudha Murty has been a role model for women, breaking stereotypes and demonstrating that women can excel in any field they choose.</p>**
+
+**    <p>Sudha Murty's dedication to making the world a better place, her literary talent, and her role as a trailblazer for women are just a few of the many reasons why I admire her. She continues to inspire countless individuals to lead a life of purpose and compassion.</p>**
+**</div>**
+
+**</body>**
+**</html>**
